@@ -29,7 +29,7 @@
 
 
 <p align="center"> 
-  You can connect with me on  <a href="https://www.linkedin.com/in/tamilselvan-k-025a6422a/" target="blank"><img align="center" src="https://icons8.com/icon/XRDimtpq5vCY/linkedin" alt="linkedIn" height="20" width="20" /></a>
+  You can connect with me on  <a href="https://www.linkedin.com/in/tamilselvan-k-025a6422a/" target="blank"><img align="center" src="https://icons8.com/icons/set/linkedin" alt="linkedIn" height="20" width="20" /></a>
   <!-- <a href="https://www.behance.net/abhishekgupta23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="Elysian01" height="20" width="20" /></a>
    <a href="https://dribbble.com/Elysian01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="Elysian01" height="20" width="20" /></a> -->  
 </p>
