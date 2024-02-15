@@ -20,8 +20,15 @@
 <!--- ⚡ Fun fact ****-->
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Elysian01&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elysian01&theme=tokyonight&show_icons=true)](https://github.com/Elysian01/github-readme-stats)
+![tzktz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzktz&show_icons=true&theme=tokyonight&rank_icon=github)
+
+![tzktz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tzktz&theme=vue-dark&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=tokyonight)](https://github.com/tzktz/github-readme-stats)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
