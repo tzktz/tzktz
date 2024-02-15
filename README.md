@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Tamilselvan K </h1>
-<h3 align="center">A developer from Tiruchengode</h3>
+<h3 align="center">A Python developer from Tiruchengode</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Elysian01" alt="Elysian01" /> </p>
 
 - 🔭 I’m currently working on **Image processing**
